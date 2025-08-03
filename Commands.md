@@ -1,5 +1,6 @@
-# Bot Command
+# Bot Commands
 All of the commands are listed below
+
 - Management
 `/setup
 /mng-view-id-card`
