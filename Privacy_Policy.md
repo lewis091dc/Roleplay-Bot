@@ -84,8 +84,7 @@ You may:
 - Ask for a summary of what data is stored
 - Report misuse or abuse related to Bot usage
 
-To exercise your rights, please contact:  
-**Discord DM: `lewis091dc`**
+To exercise your rights, please contact us in the [support discord](https://discord.gg/EBZTGjfHbF)
 
 ---
 
