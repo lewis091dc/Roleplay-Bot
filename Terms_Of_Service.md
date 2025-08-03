@@ -57,7 +57,7 @@ To function properly, the Bot may collect and store:
 We do **not** sell, share, or monetize any stored data.  
 Stored data is used only to support server functionality.
 
-To request data removal, contact: **DM `lewis091dc` on Discord**
+To request data removal, contact us in the [support discord](https://discord.gg/EBZTGjfHbF)
 
 ---
 
@@ -108,10 +108,6 @@ The creators of Roleplay Bot are **not liable** for:
 
 We may update these Terms at any time.  
 Continued use of the Bot after changes means you accept the new version.
-
----
-
-## 11. Contact
 
 For questions, feedback, or data requests, contact us via:  
 **Discord DM: `lewis091dc`**
